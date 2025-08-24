@@ -1,1 +1,1 @@
-I am a senior computer science student showcasing my projects throughout college, highlighting my growth and the skills I've developed in ML and more.
+Computer Science graduate showcasing projects from various university courses, demonstrating coding skills, problem-solving, and a strong foundation in programming.
